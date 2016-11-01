@@ -7,6 +7,7 @@
 
 -- The Skeptical Methodologist from [Software Development: Applied Metaphysics?](http://bit.ly/2eaQXr0)
 
+----
 
 > There are only two hard things in Computer Science: cache invalidation and naming things.
 
